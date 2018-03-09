@@ -1,4 +1,4 @@
 ### Магадан-1
 
-Vivamus sodales dui ante, eu accumsan felis facilisis vehicula. Donec tempus nisi non libero cursus, id dictum orci efficitur. Fusce in odio vestibulum, rutrum ipsum a, vestibulum sapien. Mauris sollicitudin nulla laoreet massa sollicitudin, eget feugiat felis convallis. Nam eget convallis est. Ut ullamcorper, diam ut aliquet lobortis, libero tortor auctor felis, et pulvinar sapien ante quis mi. Quisque sed consectetur nunc. Phasellus ornare, lorem quis scelerisque malesuada, lorem lectus consectetur arcu, consequat ornare felis augue et justo. Nunc lobortis eu elit sit amet cursus. Sed luctus, orci vitae dictum fringilla, nibh purus pulvinar nisl, blandit pulvinar tellus eros id purus.
+К 12.00 дождь прекратился. Доеду до Сокола, а там решу: ехать дальше или останусь ночевать у друзей. До Палатки есть где остановиться. Друзья всегда выручат.К 12.00 дождь прекратился. Доеду до Сокола, а там решу: ехать дальше или останусь ночевать у друзей. До Палатки есть где остановиться. Друзья всегда выручат.
 

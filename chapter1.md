@@ -2,7 +2,7 @@
 
 ## Дорогами магаданщины...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nibh magna, rutrum et dui ut, lacinia ullamcorper massa. In hac habitasse platea dictumst. Duis sed metus consectetur, condimentum ipsum quis, fermentum purus. Suspendisse sit amet sem ullamcorper, ornare eros a, fringilla turpis. Mauris sit amet nisi sit amet tortor vehicula eleifend sed vel est. Praesent nec consequat nulla. Nam sagittis varius volutpat. Aliquam at sollicitudin dolor. Nam quis eros ut ante mollis venenatis. Ut hendrerit massa vel arcu pulvinar pellentesque. Curabitur accumsan nulla porta libero vestibulum porttitor. Praesent dapibus id justo a lobortis. Fusce finibus libero sit amet erat feugiat, quis elementum risus pulvinar. Ut placerat in libero eget rutrum.
+Встали. Дождь на улице, а я хотел сегодня до Мадауна доехать. Планы меняются. А сколько таких ситуаций будет у меня в пути? Путь то не маленький, но на этом сейчас не зацикливаюсь. Исходить надо из сложившейся ситуации в данный момент и смотреть на всё реально. А пока попьём чаю с Сашей.
 
 ### 
 
