@@ -5,6 +5,7 @@
   * [Глава 1](part1/chapter1.md)
     * [1.1. По Золотой Теньке](part1/chapter1/section1.md)
 	  * [1.1.1. 1992-08-23](part1/chapter1/section1/1992-08-23.md)
+	  * [1.1.2. 1992-08-24](part1/chapter1/section1/1992-08-24.md)
     * [1.2. К Полюсу Холода](part1/chapter1/section2.md)
   * [Глава 2](part1/chapter2.md)
     * [2.1 Дорога на Лену](part1/chapter2/section1.md)
