@@ -146,5 +146,8 @@
 	  * [4.4.1. 1993-08-26](part2/chapter4/section4/1993-08-26.md)
 	  * [4.4.2. 1993-08-27](part2/chapter4/section4/1993-08-27.md)
 	  * [4.4.3. 1993-08-28](part2/chapter4/section4/1993-08-28.md)
-    * [4.5 Поворот на Нарву](part2/chapter4/section5.md)
-    * [4.6 Последние вёрсты](part2/chapter4/section6.md)
+    * [4.5 На Нарву. Последние вёрсты](part2/chapter4/section5.md)
+	  * [4.5.1. 1993-08-29](part2/chapter4/section5/1993-08-29.md)
+	  * [4.5.2. 1993-08-30](part2/chapter4/section5/1993-08-30.md)
+	  * [4.5.3. 1993-08-31](part2/chapter4/section5/1993-08-31.md)
+    
