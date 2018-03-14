@@ -1,6 +1,7 @@
 # Содержание
 
 * [Предисловие](README.md)
+* [Содержание](TOC.md) 
 * [Часть I](part1.md)	
   * [Глава 1](part1/chapter1.md)
     * [1.1. По Золотой Теньке](part1/chapter1/section1.md)
